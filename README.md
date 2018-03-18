@@ -15,7 +15,7 @@ Thực hiện bởi [https://github.com/NguyenVanBay]
 ## Liên kết
 
 Demo 
-https://github.com/NguyenVanBay/fontend1.6
+https://nguyenvanbay.github.io/fontend1.6/
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
