@@ -6,6 +6,7 @@
 
 Không dùng thư viện, thiết kế theo giao diện yêu cầu.
 Mẫu sau :
+
 https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20mobile/159256-OUIMC7-479.psd
 
 Thực hiện bởi [https://github.com/NguyenVanBay]
