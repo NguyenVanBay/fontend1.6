@@ -110,9 +110,7 @@ footer {
     color:  #999;
 }
 
-.top-bottom {
-    padding: 25px 30px;
-}
+.top-bottom {padding-bottom:  25px;}
 
 .top-bottom img {
     margin-right: 16px;
@@ -123,14 +121,15 @@ footer {
     margin-right: 0px;
 }
 
-.body-bottom {
-    padding-left: 32px;
-}
+.body-bottom {padding-bottom: 20px;}
 
 .footer-bottom {
-    padding: 20px 0px 40px 33px;
 }
 
 .body-bottom > img {
     margin-right:  5px;
+}
+
+.bottom {
+    padding: 25px 20px 40px 25px;
 }
